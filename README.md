@@ -37,8 +37,8 @@ We use our handbook to document the process and guidelines of everything we do. 
 
 # Our Projects
 |App|Type|Link|
-
 | ----------- | ----------- | ----------- |
+
 |DaBible.com | Website | [www.dabible.com](http://www.dabible.com)|
 |Solar Audio Bible|Physical Device|[Order or Sponsor Solar Device](https://dabible.com/solar-powered-audio-bible-player-for-the-elderly/)|
 |Yoruba Audio Bible|Android|[Download on Google Play](https://play.google.com/store/apps/details?id=net.yorubabible.audiobible)|
