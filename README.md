@@ -36,7 +36,6 @@ We use our handbook to document the process and guidelines of everything we do. 
 
 
 # Our Projects
-
 <!----|App|Type|Link|-->
 <!----| ----------- | ----------- | ----------- |  -->
 
